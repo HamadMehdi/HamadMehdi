@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/ZR7GcBSc/A-sleek-dark-themed.png" alt="Hamad Kazmi — Backend .NET Developer" />
 </p>
 
-<h3 align="center">ASP.NET Developer | ASP.NET Core, SQL Server | Clean APIs & Scalable Solutions</h3>
+<h3 align="center">ASP.NET Developer | ASP.NET Core, .NET MVC SQL Server | Clean APIs & Scalable Solutions</h3>
 <p align="center">
   Lahore, Pakistan · Open to Remote · <a href="mailto:hamadmehdi1214@outlook.com">hamadmehdi1214@outlook.com</a>
 </p>
