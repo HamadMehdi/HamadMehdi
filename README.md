@@ -2,10 +2,6 @@
   <img src="https://i.postimg.cc/ZR7GcBSc/A-sleek-dark-themed.png" alt="Hamad Kazmi — Backend .NET Developer" />
 </p>
 
-<p align="center">
-  <img src="YOUR_BANNER_URL" alt="Hamad Kazmi — Backend .NET Developer" />
-</p>
-
 <h3 align="center">Backend .NET Developer | ASP.NET Core, SQL Server | Clean APIs & Scalable Solutions</h3>
 <p align="center">
   Lahore, Pakistan · Open to Remote · <a href="mailto:hamadmehdi1214@outlook.com">hamadmehdi1214@outlook.com</a>
@@ -19,29 +15,41 @@ I'm a backend-focused .NET developer with 1+ years of experience building scalab
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Stack
 
-- **Languages:** C#, JavaScript
-- **Frameworks:** ASP.NET Core, MVC, Blazor
-- **Database:** SQL Server, EF Core
-- **Frontend:** HTML, CSS, Bootstrap, jQuery
-- **Tools:** Git, Postman, Swagger, ServiceNow
+- **Languages:** C#, JavaScript  
+- **Frameworks:** ASP.NET Core, MVC, Blazor  
+- **Database:** SQL Server, EF Core  
+- **Frontend:** HTML, CSS, Bootstrap, jQuery  
+- **Tools:** Git, Postman, Swagger, ServiceNow  
 
 ---
-### 🛠️ Tech Badges
+
+### 🧩 Tech Badges
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
+
+---
+
 ### 📌 Featured Projects
 
-- **PrayerTracker** — ASP.NET Core app with Blazor frontend and SQL Server backend. Tracks prayer times and logs.
-- **Admin Portal** — Role-based dashboards with audit trails and optimized queries.
+- **PrayerTracker** — ASP.NET Core app with Blazor frontend and SQL Server backend. Tracks prayer times and logs.  
+- **Admin Portal** — Role-based dashboards with audit trails and optimized queries.  
 - **ServiceNow Automation** — UI Policies and scripting to streamline ticket workflows.
 
 > See pinned repositories below for code and documentation.
+
+---
+
+### 📊 GitHub Stats
+
+![Hamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamadMehdi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamadMehdi&layout=compact&theme=radical)
 
 ---
 
@@ -50,6 +58,3 @@ I'm a backend-focused .NET developer with 1+ years of experience building scalab
 - **Email:** hamadmehdi1214@outlook.com  
 - **LinkedIn:** [hamadsyed5](https://www.linkedin.com/in/hamadsyed5)  
 - **Location:** Lahore, Pakistan · Open to Remote
-### 📊 GitHub Stats
-
-![Hamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamadMehdi&show_icons=true&theme=radical)
