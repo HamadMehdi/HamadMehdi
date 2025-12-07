@@ -28,7 +28,13 @@ I'm a backend-focused .NET developer with 1+ years of experience building scalab
 - **Tools:** Git, Postman, Swagger, ServiceNow
 
 ---
+### 🛠️ Tech Badges
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 ### 📌 Featured Projects
 
 - **PrayerTracker** — ASP.NET Core app with Blazor frontend and SQL Server backend. Tracks prayer times and logs.
@@ -44,3 +50,6 @@ I'm a backend-focused .NET developer with 1+ years of experience building scalab
 - **Email:** hamadmehdi1214@outlook.com  
 - **LinkedIn:** [hamadsyed5](https://www.linkedin.com/in/hamadsyed5)  
 - **Location:** Lahore, Pakistan · Open to Remote
+### 📊 GitHub Stats
+
+![Hamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamadMehdi&show_icons=true&theme=radical)
