@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/ZR7GcBSc/A-sleek-dark-themed.png" alt="Hamad Kazmi — Backend .NET Developer" />
 </p>
 
-<h3 align="center">Backend .NET Developer | ASP.NET Core, SQL Server | Clean APIs & Scalable Solutions</h3>
+<h3 align="center">ASP.NET Developer | ASP.NET Core, SQL Server | Clean APIs & Scalable Solutions</h3>
 <p align="center">
   Lahore, Pakistan · Open to Remote · <a href="mailto:hamadmehdi1214@outlook.com">hamadmehdi1214@outlook.com</a>
 </p>
@@ -21,7 +21,7 @@ I'm a backend-focused .NET developer with 1+ years of experience building scalab
 - **Frameworks:** ASP.NET Core, MVC, Blazor  
 - **Database:** SQL Server, EF Core  
 - **Frontend:** HTML, CSS, Bootstrap, jQuery  
-- **Tools:** Git, Postman, Swagger, ServiceNow  
+- **Tools:** Git, Postman, Swagger  
 
 ---
 
@@ -37,9 +37,9 @@ I'm a backend-focused .NET developer with 1+ years of experience building scalab
 
 ### 📌 Featured Projects
 
-- **PrayerTracker** — ASP.NET Core app with Blazor frontend and SQL Server backend. Tracks prayer times and logs.  
-- **Admin Portal** — Role-based dashboards with audit trails and optimized queries.  
-- **ServiceNow Automation** — UI Policies and scripting to streamline ticket workflows.
+- PrayerTracker — ASP.NET Core app with Blazor frontend and SQL Server backend. Tracks prayer times and logs.
+- Point of Sale System — A modular POS solution built with ASP.NET Core and SQL Server. Supports product management, billing, and inventory tracking.
+- Automated Grading System — Web-based grading platform using ASP.NET MVC and Entity Framework. Calculates scores, generates reports, and supports role-based access for teachers and students.
 
 > See pinned repositories below for code and documentation.
 
