@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend-focused .NET developer with 1+ years of experience building scalable web apps using ASP.NET Core, MVC, Blazor, and SQL Server. I specialize in clean architecture, query optimization, and pragmatic automation.
+I'm a backend-focused .NET developer having experience building scalable web apps using ASP.NET Core, MVC, Blazor, and SQL Server. I specialize in clean architecture, query optimization, and pragmatic automation.
 
 ---
 
